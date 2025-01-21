@@ -1,1 +1,1 @@
-# Repository for final project
+# Repository for the final project
